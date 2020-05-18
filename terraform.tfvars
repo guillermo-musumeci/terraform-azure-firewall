@@ -23,4 +23,4 @@ core-vnet-cidr = "10.10.0.0/16"
 # Core Subnets #
 ################
 core-azure-firewall-subnet-cidr = "10.10.1.0/26" # /26 required 
-core-bastion-subnet-cidr        = "10.10.2.0/24"
+
